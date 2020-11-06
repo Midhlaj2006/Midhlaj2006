@@ -5,7 +5,7 @@
 
 
 ### About Me :raising_hand_man:
-Hi,my name is **Muhammed Midhlaj** :child:,Iam from [_kerala_](https://en.wikipedia.org/wiki/Kerala),state of [_india_:india:](https://en.wikipedia.org/wiki/India)
+Hi,my name is **Muhammed Midhlaj** :child:,Iam from **[_kerala_](https://en.wikipedia.org/wiki/Kerala),state of [_india_:india:](https://en.wikipedia.org/wiki/India)**
 
 Iam currently Iam studying in __[Chakkalakkal HSS:school:](https://www.facebook.com/chakkalakkalhs/)__
 Ok now let's speak about my interests :man_shrugging: <br />
@@ -17,6 +17,12 @@ Ok now,if you wants to _contact_ me then..
 
 here is my [![Gmail account](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:midlajkalathil2006@gmail.com)
 ***
+
+### My Level :abacus:
+
+![stats](https://github-readme-stats.vercel.app/api?username=Midhlaj2006&&show_icons=true&title_color=03ff51&icon_color=3ac1ff&text_color=ddff00&bg_color=121212)
+***
+
 ### My Tools :toolbox:
 
 | _Always Using_ :100: | _Learning&Trying_ :notebook_with_decorative_cover:
@@ -27,12 +33,6 @@ here is my [![Gmail account](https://img.shields.io/badge/gmail-D14836?&style=fo
 | <img align="center" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" /> Terminal |<img align="center" alt="tinkercad" width="52px" src="https://beta-editor.tinkercad.com/assets_2rv56rm/js/tinkercad-frontend/assets/images/tinkercad-lockup-color.svg" /> Tinkercad|
 | <img align="center" alt="bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" /> Bash | <img align="center" alt="blender" width="26px" src="https://avatars3.githubusercontent.com/u/452469?s=460&v=4" /> Blender |
 | <img align="center" alt="md" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />  Markdown| <img align="center" alt="sketchup" width="26px" src="https://avatars2.githubusercontent.com/u/2521172?s=200&v=4" /> Sketchup |
-
-
-***
-### My Level :abacus:
-
-![stats](https://github-readme-stats.vercel.app/api?username=Midhlaj2006&&show_icons=true&title_color=03ff51&icon_color=3ac1ff&text_color=ddff00&bg_color=121212)
 ***
 
 <!--
