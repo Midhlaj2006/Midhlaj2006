@@ -1,4 +1,4 @@
-## Hello guys :wave: ,welcome to my git-hub account :octocat:
+## Hello guys :wave: ,welcome to my GitHub account :octocat:
 ![ubuntu](https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 
