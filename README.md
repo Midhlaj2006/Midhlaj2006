@@ -8,7 +8,7 @@ Hi,my name is **Muhammed Midhlaj** :child:,Iam from [_kerala_](https://en.wikipe
 
 Iam currently Iam studying in __[Chakkalakkal HSS:school:](https://www.facebook.com/chakkalakkalhs/)__
 Ok now let's speak about my interests :man_shrugging: <br />
-I love python-based **coding** :heart:.Iam interested in **3D modeling**, too but Iam still learning it :man_technologist:
+I love python-based **coding** :heart:.Iam interested in **3D modeling** too :ice_cube:, but Iam still learning it :man_technologist:
 
 I likes **listening music** too :notes::musical_note:,espeacially when doing frustrating works :bowing_man:
 
