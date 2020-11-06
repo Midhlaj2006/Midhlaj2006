@@ -8,14 +8,9 @@
 Hi,my name is **Muhammed Midhlaj** :child:,Iam from **[_kerala_](https://en.wikipedia.org/wiki/Kerala),state of [_india_:india:](https://en.wikipedia.org/wiki/India)**
 
 Iam currently Iam studying in __[Chakkalakkal HSS:school:](https://www.facebook.com/chakkalakkalhs/)__
-Ok now let's speak about my interests :man_shrugging: <br />
+Ok now let's speak about my interests :man_shrugging: <br />.
 I love python-based **coding** :heart:.Iam interested in **3D modeling** too <img align="center" alt="3D" width="26px" src="https://www.freepnglogos.com/uploads/ice-png/ice-cube-transparent-png-clip-art-image-gallery-22.png" />, but Iam still learning it :man_technologist:
-
 I likes **listening music** too :notes::musical_note:,espeacially when doing frustrating works :bowing_man:
-
-Ok now,if you wants to _contact_ me then..
-
-here is my [![Gmail account](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:midlajkalathil2006@gmail.com)
 ***
 
 ### My Level :abacus:
@@ -34,6 +29,10 @@ here is my [![Gmail account](https://img.shields.io/badge/gmail-D14836?&style=fo
 | <img align="center" alt="bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" /> Bash | <img align="center" alt="blender" width="26px" src="https://avatars3.githubusercontent.com/u/452469?s=460&v=4" /> Blender |
 | <img align="center" alt="md" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />  Markdown| <img align="center" alt="sketchup" width="26px" src="https://avatars2.githubusercontent.com/u/2521172?s=200&v=4" /> Sketchup |
 ***
+### Contacts :telephone:
+
+Ok now,if you wants to _contact_ me then..
+here is my [![Gmail account](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:midlajkalathil2006@gmail.com)
 
 <!--
 <img align="center" alt="" width="26px" src="" />
