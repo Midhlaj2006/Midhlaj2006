@@ -4,7 +4,7 @@
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=?style=flat-square&logo=appveyor&logo=python&logoColor=white)
 ### About Me :raising_hand_man:
 Hi,my name is **Muhammed Midhlaj** :child:,Iam from **[_kerala_](https://en.wikipedia.org/wiki/Kerala),state of [_india_:india:](https://en.wikipedia.org/wiki/India)**.Iam currently Iam studying in __[Chakkalakkal HSS:school:](https://www.facebook.com/chakkalakkalhs/)__
-Ok now let's speak about my interests :man_shrugging:.I love python-based **coding** :heart:.Iam interested in **3D modeling** too <img align="center" alt="3D" width="26px" src="https://www.freepnglogos.com/uploads/ice-png/ice-cube-transparent-png-clip-art-image-gallery-22.png" />, but Iam still learning it :man_technologist:
+Ok now let's speak about my interests :man_shrugging:.I love python-based **coding** :heart:.Iam interested in **3D modeling** too :man_student:, but Iam still learning it :man_technologist:
 I likes **listening music** too :notes::musical_note:,espeacially when doing frustrating works :bowing_man:
 ***
 
