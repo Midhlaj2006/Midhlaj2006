@@ -24,7 +24,7 @@ I likes **listening music** too :notes::musical_note:,espeacially when doing fru
 | <img align="center" alt="bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" /> Bash | <img align="center" alt="blender" width="26px" src="https://avatars3.githubusercontent.com/u/452469?s=460&v=4" /> Blender |
 | <img align="center" alt="md" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />  Markdown| <img align="center" alt="sketchup" width="26px" src="https://avatars2.githubusercontent.com/u/2521172?s=200&v=4" /> Sketchup |
 ***
-### Contacts :telephone:
+### Contact Me :busts_in_silhouette:
 
 Ok now,if you wants to _contact_ me then..
 here is my [![Gmail account](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:midlajkalathil2006@gmail.com)
