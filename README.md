@@ -32,7 +32,7 @@ Iam a person of simple interests you know :smile:
 ### Contact Me :busts_in_silhouette:
 
 Ok now,if you wants to _contact_ me then..
-here is my [![Gmail account](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:midlajkalathil2006@gmail.com)
+here is my [![Gmail account](https://img.shields.io/badge/gmail-D14836?&style=flat&logo=gmail&logoColor=white)](mailto:midlajkalathil2006@gmail.com)
 
 <!--
 <img align="center" alt="" width="26px" src="" />
