@@ -15,7 +15,7 @@ Iam a person of simple interests you know :smile:
 
 ### My Level :abacus:
 
-![stats](https://github-readme-stats.vercel.app/api?username=Midhlaj2006&&show_icons=true&title_color=03ff51&icon_color=3ac1ff&text_color=ddff00&bg_color=121212)
+![stats](https://github-readme-stats.vercel.app/api?username=Midhlaj2006&&show_icons=true&title_color=09e8b3&icon_color=3ac1ff&text_color=b6fbff&bg_color=05,0F2027,203A43)
 ***
 
 ### My Tools :toolbox:
