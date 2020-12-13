@@ -26,7 +26,7 @@ Iam a person of simple interests you know :smile:
 | <img align="center" alt="ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" /> Ubuntu 18.04 | <img align="center" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> CSS3 |
 | <img align="left" alt="VScode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />VScode | <img align="center" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" /> Arduino IDE |
 | <img align="center" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" /> Terminal |<img align="center" alt="blender" width="26px" src="https://avatars3.githubusercontent.com/u/452469?s=460&v=4" /> Blender |
-| <img align="center" alt="bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" /> Bash |
+| <img align="center" alt="bash" width="26px" src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" /> Bash |
 ***
 ### Contact Me :busts_in_silhouette:
 
