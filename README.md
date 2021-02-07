@@ -7,7 +7,7 @@ Hi,my name is **Muhammed Midhlaj** :child:,Iam from **[_kerala_](https://en.wiki
 Ok now let's speak about my interests :man_shrugging:.
 
 + I love python-based **coding** :heart:.
-+ Iam interested in **3D modeling** too :man_student:, but Iam still learning it :man_technologist:
++ Iam interested in **HTML5** too :man_student:, but Iam still learning it :man_technologist:
 + I likes **listening music** too :notes::musical_note:,espeacially when doing frustrating works :bowing_man:
 
 Iam a person of simple interests you know :smile:
