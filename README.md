@@ -23,9 +23,8 @@ Iam a person of simple interests you know :smile:
 | _Always Using_ :100: | _Learning&Trying_ :notebook_with_decorative_cover:
 | ----------- | ----------- |
 | <img align="center" alt="python3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> python3 | <img align="center" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> HTML5 | 
-| <img align="center" alt="ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" /> Ubuntu 18.04 | <img align="center" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> CSS3 |
-| <img align="left" alt="VScode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />VScode |<img align="center" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> JavaScript |
-| <img align="center" alt="bash" width="26px" src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" /> Bash |
+| <img align="center" alt="ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" /> Ubuntu 18.04 |<img align="center" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" /> React JS |
+| <img align="left" alt="VScode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />VScode |
 ***
 ### Contact Me :busts_in_silhouette:
 
