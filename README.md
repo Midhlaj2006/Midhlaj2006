@@ -3,7 +3,7 @@
 :blue_heart:
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=?style=flat-square&logo=appveyor&logo=python&logoColor=white)
 ### About Me :raising_hand_man:
-Hi,my name is **Muhammed Midhlaj** :child:,Iam from **[_kerala_](https://en.wikipedia.org/wiki/Kerala),state of [_india_:india:](https://en.wikipedia.org/wiki/India)**.Iam currently Iam studying in __[Chakkalakkal HSS:school:](https://www.facebook.com/chakkalakkalhs/)__
+Hi,my name is **Muhammed Midhlaj** :child:,Iam from **[_kerala_](https://en.wikipedia.org/wiki/Kerala), a state in [_india_:india:](https://en.wikipedia.org/wiki/India)**.Iam currently Iam studying in __[Chakkalakkal HSS:school:](https://www.facebook.com/chakkalakkalhs/)__
 Ok now let's speak about my interests :man_shrugging:.
 
 + I love python-based **coding** :heart:.
