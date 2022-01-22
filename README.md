@@ -7,8 +7,7 @@ Hi,my name is **Muhammed Midhlaj** :child:,Iam from **[_kerala_](https://en.wiki
 Ok now let's speak about my interests :man_shrugging:.
 
 + I love python-based **coding** :heart:.
-+ Iam interested in **HTML5** too :man_student:, but Iam still learning it :man_technologist:
-+ I likes **listening music** too :notes::musical_note:,espeacially when doing frustrating works :bowing_man:
++ I likes **listening music** too :notes::musical_note:,especially when doing frustrating works :bowing_man:
 
 Iam a person of simple interests you know :smile:
 ***
@@ -22,8 +21,8 @@ Iam a person of simple interests you know :smile:
 
 | _Always Using_ :100: | _Learning&Trying_ :notebook_with_decorative_cover:
 | ----------- | ----------- |
-| <img align="center" alt="python3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> python3 | <img align="center" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> HTML5 | 
-| <img align="center" alt="ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" /> Ubuntu 18.04 |<img align="center" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" /> React JS |
+| <img align="center" alt="python3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> python3 |  | 
+| <img align="center" alt="ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" /> Ubuntu 18.04 | |
 | <img align="left" alt="VScode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />VScode |
 ***
 ### Contact Me :busts_in_silhouette:
@@ -33,4 +32,5 @@ here is my [![Gmail account](https://img.shields.io/badge/gmail-D14836?&style=fl
 
 <!--
 <img align="center" alt="" width="26px" src="" />
+
 -->
